@@ -1,0 +1,15 @@
+C:\Users\rajan.muhammad\source\repos\rajan201822\OLIOohjelmointi\Eläinesimerkki\bin\Debug\net6.0\Eläinesimerkki.exe
+C:\Users\rajan.muhammad\source\repos\rajan201822\OLIOohjelmointi\Eläinesimerkki\bin\Debug\net6.0\Eläinesimerkki.deps.json
+C:\Users\rajan.muhammad\source\repos\rajan201822\OLIOohjelmointi\Eläinesimerkki\bin\Debug\net6.0\Eläinesimerkki.runtimeconfig.json
+C:\Users\rajan.muhammad\source\repos\rajan201822\OLIOohjelmointi\Eläinesimerkki\bin\Debug\net6.0\Eläinesimerkki.dll
+C:\Users\rajan.muhammad\source\repos\rajan201822\OLIOohjelmointi\Eläinesimerkki\bin\Debug\net6.0\Eläinesimerkki.pdb
+C:\Users\rajan.muhammad\source\repos\rajan201822\OLIOohjelmointi\Eläinesimerkki\obj\Debug\net6.0\Eläinesimerkki.csproj.AssemblyReference.cache
+C:\Users\rajan.muhammad\source\repos\rajan201822\OLIOohjelmointi\Eläinesimerkki\obj\Debug\net6.0\Eläinesimerkki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajan.muhammad\source\repos\rajan201822\OLIOohjelmointi\Eläinesimerkki\obj\Debug\net6.0\Eläinesimerkki.AssemblyInfoInputs.cache
+C:\Users\rajan.muhammad\source\repos\rajan201822\OLIOohjelmointi\Eläinesimerkki\obj\Debug\net6.0\Eläinesimerkki.AssemblyInfo.cs
+C:\Users\rajan.muhammad\source\repos\rajan201822\OLIOohjelmointi\Eläinesimerkki\obj\Debug\net6.0\Eläinesimerkki.csproj.CoreCompileInputs.cache
+C:\Users\rajan.muhammad\source\repos\rajan201822\OLIOohjelmointi\Eläinesimerkki\obj\Debug\net6.0\Eläinesimerkki.dll
+C:\Users\rajan.muhammad\source\repos\rajan201822\OLIOohjelmointi\Eläinesimerkki\obj\Debug\net6.0\refint\Eläinesimerkki.dll
+C:\Users\rajan.muhammad\source\repos\rajan201822\OLIOohjelmointi\Eläinesimerkki\obj\Debug\net6.0\Eläinesimerkki.pdb
+C:\Users\rajan.muhammad\source\repos\rajan201822\OLIOohjelmointi\Eläinesimerkki\obj\Debug\net6.0\Eläinesimerkki.genruntimeconfig.cache
+C:\Users\rajan.muhammad\source\repos\rajan201822\OLIOohjelmointi\Eläinesimerkki\obj\Debug\net6.0\ref\Eläinesimerkki.dll
