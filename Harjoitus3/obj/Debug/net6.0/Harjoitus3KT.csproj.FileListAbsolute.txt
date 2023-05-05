@@ -1,0 +1,15 @@
+C:\Users\rajan.muhammad\source\repos\rajan201822\OLIOohjelmointi\Harjoitus3\bin\Debug\net6.0\Harjoitus3KT.exe
+C:\Users\rajan.muhammad\source\repos\rajan201822\OLIOohjelmointi\Harjoitus3\bin\Debug\net6.0\Harjoitus3KT.deps.json
+C:\Users\rajan.muhammad\source\repos\rajan201822\OLIOohjelmointi\Harjoitus3\bin\Debug\net6.0\Harjoitus3KT.runtimeconfig.json
+C:\Users\rajan.muhammad\source\repos\rajan201822\OLIOohjelmointi\Harjoitus3\bin\Debug\net6.0\Harjoitus3KT.dll
+C:\Users\rajan.muhammad\source\repos\rajan201822\OLIOohjelmointi\Harjoitus3\bin\Debug\net6.0\Harjoitus3KT.pdb
+C:\Users\rajan.muhammad\source\repos\rajan201822\OLIOohjelmointi\Harjoitus3\obj\Debug\net6.0\Harjoitus3KT.csproj.AssemblyReference.cache
+C:\Users\rajan.muhammad\source\repos\rajan201822\OLIOohjelmointi\Harjoitus3\obj\Debug\net6.0\Harjoitus3KT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajan.muhammad\source\repos\rajan201822\OLIOohjelmointi\Harjoitus3\obj\Debug\net6.0\Harjoitus3KT.AssemblyInfoInputs.cache
+C:\Users\rajan.muhammad\source\repos\rajan201822\OLIOohjelmointi\Harjoitus3\obj\Debug\net6.0\Harjoitus3KT.AssemblyInfo.cs
+C:\Users\rajan.muhammad\source\repos\rajan201822\OLIOohjelmointi\Harjoitus3\obj\Debug\net6.0\Harjoitus3KT.csproj.CoreCompileInputs.cache
+C:\Users\rajan.muhammad\source\repos\rajan201822\OLIOohjelmointi\Harjoitus3\obj\Debug\net6.0\Harjoitus3KT.dll
+C:\Users\rajan.muhammad\source\repos\rajan201822\OLIOohjelmointi\Harjoitus3\obj\Debug\net6.0\refint\Harjoitus3KT.dll
+C:\Users\rajan.muhammad\source\repos\rajan201822\OLIOohjelmointi\Harjoitus3\obj\Debug\net6.0\Harjoitus3KT.pdb
+C:\Users\rajan.muhammad\source\repos\rajan201822\OLIOohjelmointi\Harjoitus3\obj\Debug\net6.0\Harjoitus3KT.genruntimeconfig.cache
+C:\Users\rajan.muhammad\source\repos\rajan201822\OLIOohjelmointi\Harjoitus3\obj\Debug\net6.0\ref\Harjoitus3KT.dll
